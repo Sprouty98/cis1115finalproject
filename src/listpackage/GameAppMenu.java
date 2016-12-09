@@ -95,5 +95,9 @@ public class GameAppMenu {
            
         }
     }
+    
+    public static void main(String[] args) {
+        new GameAppMenu();
+    }
 }
 
