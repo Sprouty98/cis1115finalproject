@@ -1,0 +1,7 @@
+1,Assassin's Creed Syndicate,8.50,60.00,35.00
+2,Minecraft,7.90,30.00,30.00
+3,Halo 5 Guardians,9.10,30.00,30.00
+4,Terraria,9.30,20.00,0.00
+5,Call of Duty,7.60,60.00,55.00
+6,Rise of the Tomb Raider,8.80,60.00,35.00
+7,Call of Duty: Black Ops 3,9.10,60.00,30.00
